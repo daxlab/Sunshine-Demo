@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/daxlab/projects/Android/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/daxlab/projects/Android/Sunshine/app/build/intermediates/pre-dexed/debug/classes-c476edcef1c1aa9a42b8c2f1a786908ec16fbf77.jar" />
+    </item>
+    <item
+        jar="/home/daxlab/projects/Android/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/daxlab/projects/Android/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-8803c7efd26ebe2db28a58bf33be155fedfd2c70.jar" />
+    </item>
+    <item
+        jar="/home/daxlab/install/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/daxlab/projects/Android/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-87fb57174994a8e7e33824e68cc892307fffa868.jar" />
+    </item>
+    <item
+        jar="/home/daxlab/projects/Android/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/daxlab/projects/Android/Sunshine/app/build/intermediates/pre-dexed/debug/classes-9f53373e3f78c31aaf1cef0a6aa50ffc3db0316e.jar" />
+    </item>
+
+</items>
